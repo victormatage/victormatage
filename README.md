@@ -1,6 +1,4 @@
-Hi, I'm victor Matage
-Education: Associate degree in Pre-pharmacy
-Goal : Entry level Soc analyst
+
 
 <!--
 **victormatage/victormatage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
