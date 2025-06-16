@@ -1,5 +1,7 @@
 # Hello, I'm Victor
-<a href="https://linkedin.com/victor-matage-9a707973/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/victor-matage-9a707973/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 
