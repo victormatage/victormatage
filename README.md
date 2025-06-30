@@ -17,7 +17,7 @@ To secure a SOC analyst role where i can apply my skills in threat detection, lo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Threat Detection & Analysis    | <a href="https://google.com">Detection Lab</a>|
+|Threat Detection & Analysis    |https://github.com/victormatage/README.md |
 | Vulnerability management using Nessus scanner| <a href="https://google.com">Detection Lab</a>|
 |Phishing & Email Security
 
